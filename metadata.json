@@ -1,0 +1,7 @@
+{
+  "name": "Mizan Nutrition Tracker",
+  "description": "Mizan is a minimalist and motivating nutrition tracker designed for Persian/Farsi speakers. It features a clean interface, a comprehensive database of Iranian foods, and powerful tools to help users achieve their health and wellness goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
